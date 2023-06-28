@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/watches/static/css/main.6d6c57fc.css",
+    "main.js": "/watches/static/js/main.eea941a3.js",
+    "static/js/787.4640138f.chunk.js": "/watches/static/js/787.4640138f.chunk.js",
+    "static/media/three.jpg": "/watches/static/media/three.7d7cb0f72843c622bd6e.jpg",
+    "static/media/100002.png": "/watches/static/media/100002.9799b8da92facef162fe.png",
+    "static/media/100001.png": "/watches/static/media/100001.c12e8050c138fe3bd446.png",
+    "static/media/100006.png": "/watches/static/media/100006.e09fd3133f0205dee69f.png",
+    "static/media/100004.png": "/watches/static/media/100004.80e5e2dd59133ce9999c.png",
+    "static/media/100003.png": "/watches/static/media/100003.241880926c4a9fdeb626.png",
+    "static/media/100005.png": "/watches/static/media/100005.c49f22531a95bf69187b.png",
+    "static/media/2.jpg": "/watches/static/media/2.744c42492709f836b134.jpg",
+    "static/media/3.jpg": "/watches/static/media/3.940c1d0dee8a5bf8a4b7.jpg",
+    "static/media/1.jpg": "/watches/static/media/1.936057839240d28f0044.jpg",
+    "static/media/bodyPhoto2.jpg": "/watches/static/media/bodyPhoto2.3986f2de4bb0e6e30ff2.jpg",
+    "index.html": "/watches/index.html",
+    "main.6d6c57fc.css.map": "/watches/static/css/main.6d6c57fc.css.map",
+    "main.eea941a3.js.map": "/watches/static/js/main.eea941a3.js.map",
+    "787.4640138f.chunk.js.map": "/watches/static/js/787.4640138f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d6c57fc.css",
+    "static/js/main.eea941a3.js"
+  ]
+}
